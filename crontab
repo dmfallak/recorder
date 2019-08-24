@@ -1,0 +1,2 @@
+*/15 * * * * /home/pi/record_segment.sh
+0 6 * * * /home/pi/clean_old_segments.sh
