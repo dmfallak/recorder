@@ -3,7 +3,6 @@ liquidsoap
 apache2
 imagemagick
 icecast2
-opam
 libpcre3-dev m4
 libmad0-dev libmp3lame-dev libogg-dev libsamplerate0-dev libtag1-dev libvorbis-dev
 gnuplot-nox
